@@ -88,13 +88,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="app\css\app.95efd83d.css" />
+    <Content Include="app\css\app.css" />
     <Content Include="app\favicon.ico" />
     <Content Include="app\img\logo.png" />
-    <Content Include="app\img\logo.82b9c7a5.png" />
     <Content Include="app\index.html" />
-    <Content Include="app\js\app.2cc1ca39.js" />
-    <Content Include="app\js\chunk-vendors.fb0d6203.js" />
+    <Content Include="app\js\app.js" />
+    <Content Include="app\js\chunk-vendors.js" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="index.html" />
@@ -110,8 +109,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
-    <Content Include="app\js\app.2cc1ca39.js.map" />
-    <Content Include="app\js\chunk-vendors.fb0d6203.js.map" />
+    <Content Include="app\js\app.js.map" />
+    <Content Include="app\js\chunk-vendors.js.map" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

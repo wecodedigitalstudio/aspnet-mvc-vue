@@ -1,3 +1,5 @@
 module.exports = {
-  outputDir: '..\\WebAppMVC\\app'
+  outputDir: '..\\WebAppMVC\\app',
+  filenameHashing: false,
+  publicPath: '/app'
 }

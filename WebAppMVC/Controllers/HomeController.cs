@@ -8,7 +8,7 @@ namespace WebAppMVC.Controllers
 {
     public class HomeController : Controller
     {
-        // GET: Default
+        // GET: Dault
         public ActionResult Index()
         {
             //return RedirectToRoute("About.html");
